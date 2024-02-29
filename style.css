@@ -47,12 +47,14 @@ nav {
 }
 
 .login-btn {
+    text-decoration: none;
     border: 1px solid #cecece;
     padding: 9px 16px;
     border-radius: 20px;
 }
 
 .register-btn {
+    text-decoration: none;
     display: flex;
     gap: 4px;
     padding: 9px 16px;
